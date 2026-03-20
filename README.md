@@ -1,4 +1,4 @@
-# YKumar BioGenAI
+# Protein BioGenAI
 
 ## AI-Based Protein Selection System
 
