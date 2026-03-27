@@ -21,7 +21,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Faster bug fixing and regression cycles  
 - Smooth coordination between Dev and QA teams  
 
-👉 *Easy Answer:* “Success means faster releases with fewer delays and better coordination.”
+👉 *Concept:* “Success means faster releases with fewer delays and better coordination.”
 
 ---
 
@@ -37,7 +37,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Mobile application testing  
 - Complex third-party integrations (marketplace tools)  
 
-👉 *Easy Answer:* “We focus only on web testing and core workflow automation.”
+👉 *Concept:* “We focus only on web testing and core workflow automation.”
 
 ---
 
@@ -62,7 +62,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 6. Bugs sent to developers automatically  
 7. After fix → sent back for regression testing  
 
-👉 *Easy Answer:* “The system automates the full cycle from testing to bug fixing and retesting.”
+👉 *Concept:* “The system automates the full cycle from testing to bug fixing and retesting.”
 
 ---
 
@@ -71,7 +71,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Bugs are prioritized (High / Medium / Low)  
 - Fixed bugs must go through regression testing  
 
-👉 *Easy Answer:* “We follow standard testing logic used in real companies.”
+👉 *Concept:* “We follow standard testing logic used in real companies.”
 
 ---
 
@@ -80,7 +80,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Limited parallel test executions (based on system capacity)  
 - Requires clear and understandable test plans  
 
-👉 *Easy Answer:* “We limit scope to keep system simple and reliable.”
+👉 *Concept:* “We limit scope to keep system simple and reliable.”
 
 ---
 
@@ -89,7 +89,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Reports include logs and screenshots  
 - Workflow routing works without manual intervention  
 
-👉 *Easy Answer:* “If tests run correctly and workflow is automated, the system is successful.”
+👉 *Concept:* “If tests run correctly and workflow is automated, the system is successful.”
 
 ---
 
@@ -126,7 +126,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - AI Model (for test plan parsing)  
 - Playwright/Selenium (for execution)  
 
-👉 *Easy Answer:* “AI handles understanding, automation tools handle execution.”
+👉 *Concept:* “AI handles understanding, automation tools handle execution.”
 
 ---
 
@@ -135,7 +135,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Easy navigation between modules  
 - Minimal learning required for users  
 
-👉 *Easy Answer:* “Even non-technical users should be able to use it.”
+👉 *Concept:* “Even non-technical users should be able to use it.”
 
 ---
 
@@ -144,7 +144,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Monitor errors and failures  
 - Measure execution time  
 
-👉 *Easy Answer:* “We track performance to ensure system reliability.”
+👉 *Concept:* “We track performance to ensure system reliability.”
 
 ---
 
@@ -158,7 +158,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Test plans are clearly written  
 - Web application structure is stable  
 
-👉 *Easy Answer:* “Main risk is AI accuracy and UI changes.”
+👉 *Concept:* “Main risk is AI accuracy and UI changes.”
 
 ---
 
@@ -167,7 +167,7 @@ TestPilot AI provides a single system that **automates test execution and manage
 - Test reports are accurate  
 - System works reliably under normal usage  
 
-👉 *Easy Answer:* “System is ready when testing and workflow both run smoothly.”
+👉 *Concept:* “System is ready when testing and workflow both run smoothly.”
 
 ---
 
